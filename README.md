@@ -7,6 +7,7 @@ This application uses node and postgres images to spin up the containers and set
 - Integration tests, unit tests, db connection already setup
 - Separation of concerns between, controllers, services, and repositories
 - Easy to extend the existing functionality
+- API documentation using swagger
 
 # How To Start?
 1) open terminal at the root of this project directory
