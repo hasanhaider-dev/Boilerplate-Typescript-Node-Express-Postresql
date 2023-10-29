@@ -1,6 +1,13 @@
 # Boilerplate-Typescript-Node-Express-Postgres
 This application uses node and postgres images to spin up the containers and set up the database connection.
 
+# Features
+- Postgres repository to interact with the DB.
+- Generic database service which can adapt any kind of DB i-e Mongo,Postgres, etc
+- Integration tests, unit tests, db connection already setup
+- Separation of concerns between, controllers, services, and repositories
+- Easy to extend the existing functionality
+
 # How To Start?
 1) open terminal at the root of this project directory
 2) Run docker-compose build
